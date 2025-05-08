@@ -1,0 +1,6 @@
+streamlit
+mediapipe
+pillow
+numpy
+pandas
+openpyxl
